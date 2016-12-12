@@ -1,6 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
-* [Homeostasis](homeostasis.md)
-* 1. Physical Health
+* [Cover](README.md)
+* [Physical Health](physical-health.md)
+    * [Homeostasis](homeostasis.md)
+    * [The Brain](the-brain.md)
 
