@@ -1,4 +1,4 @@
-# health Bound
+# Health Bound
 
 ![](/assets/Design.png)
 
