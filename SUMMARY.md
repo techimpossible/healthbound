@@ -4,16 +4,20 @@
 * [Cover](README.md)
 * [Introduction](introduction.md)
 * [Homeostasis](homeostasis.md)
-* The Mind
 
 ## 2. Physical Health
-* [Physical Health](physical-health.md)
+* [Autonomous Systems](physical-health.md)
 * [The Brain](the-brain.md)
-
-## 4. Spiritual Health
-* [Spiritual Health](spiritual-health.md)
-    * The Soul
 
 ## 3. Mental Health
 * [Mental Health](mental-health.md)
+* [Spiritual Health](spiritual-health.md)
+    * The Soul
+
+## 4. Spiritual Health
+* [The Mind](the-mind.md)
+
+## 5. Reference
+* [A.Homeopathy](ahomeopathy.md)
+    * [Aconitum](aconitum.md)
 
